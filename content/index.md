@@ -1,7 +1,6 @@
 ---
 title: Home
 ---
-
 Explore using links, graph view, or sidebar. Software: https://obsidian.md/
 
 >[!INFO]
@@ -12,7 +11,7 @@ Explore using links, graph view, or sidebar. Software: https://obsidian.md/
 >
 >Github: https://github.com/daemonwilliams
 >
->Linkedin: https://www.linkedin.com/in/daemon-williams-028271330/
+>Linkedin: https://www.linkedin.com/in/daemon-c-williams/
 >
 >Contact: daemonw29@gmail.com
 
