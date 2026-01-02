@@ -12,6 +12,8 @@ Explore using links, graph view, or sidebar. Software: https://obsidian.md/
 >
 >Github: https://github.com/daemonwilliams
 >
+>Linkedin: https://www.linkedin.com/in/daemon-williams-028271330/
+>
 >Contact: daemonw29@gmail.com
 
 ---
