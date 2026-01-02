@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 Explore using links, graph view, or sidebar. Software: https://obsidian.md/
 
 >[!INFO]
