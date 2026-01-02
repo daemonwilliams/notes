@@ -2,7 +2,7 @@ Explore using links, graph view, or sidebar. Software: https://obsidian.md/
 
 >[!INFO]
 >
->I'm A Computer Science Student at Cleveland State University, this is my digital notebook.
+>I'm A Computer Science Student at Cleveland State University and this is my digital notebook.
 >
 >Bio: [[About Me]]
 >
