@@ -1,0 +1,21 @@
+@use "./base.scss";
+
+// put your custom CSS here!
+
+// Hide Explorer Title Button (to match Obsidian Publish)
+.explorer .title-button {
+  display: none;
+}
+
+// Uppercase Graph Title
+.graph h3 {
+  text-transform: uppercase;
+  font-size: 0.8rem; /* Adjust to match reference small cap look */
+  letter-spacing: 0.05em;
+  color: var(--gray); /* Make it subtle like reference */
+}
+
+// Adjust Page Title Color if needed (Reference is white, Quartz defaults to text color)
+.page-title {
+  color: var(--dark);
+}
