@@ -5,7 +5,7 @@ I am currently focused on building a foundation in low-level optimization and re
 ---
 #### Contact
 
-Open to research/work opportunities in Cloud/Distributed Systems, Software Engineering, or Embedded Systems.
+Open to research/work opportunities in Cloud Computing/Distributed Systems, Software Engineering, or Embedded Systems.
 
 daemonw29@gmail.com
 
